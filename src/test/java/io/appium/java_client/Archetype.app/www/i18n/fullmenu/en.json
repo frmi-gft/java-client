@@ -1,0 +1,37 @@
+{
+    "FULLMENU": {
+        "EDITNAVTITLE": "Edit menu",
+        "FAVOURITELISTHEADER": "Favourite features",
+        "EDITINFO": "Organise your features below",
+        "MYMANAGE": "My manager",
+        "WORLD": "123 World",
+        "BILLSANDTAXES": "Bills and taxes",
+        "MYINVESTMENTS": "My investments",
+        "APPLY": "Apply",
+        "SANTANDERSHOPPING": "Santander Shopping",
+        "ADVICE": "Advice",
+        "ATMBRANCHLOCATOR" : "ATM&Branch locator",
+        "SHAREHOLDER": "Shareholder",
+        "APPS" : "Apps",
+        "HELPUSIMPROVE": "Help us improve",
+        "EDITEMPTYLISTMESSAGE": "Drag here items to highlight",
+        "MYMANAGEDESC": "Introduce a short description",
+        "WORLDDESC": "Introduce a short description",
+        "BILLSANDTAXESDESC": "Introduce a short description",
+        "MYINVESTMENTSDESC": "Introduce a short description",
+        "APPLYDESC": "Introduce a short description",
+        "SANTANDERSHOPPINGDESC": "Introduce a short description",
+        "ADVICEDESC": "Introduce a short description",
+        "ATMBRANCHLOCATORDESC": "Introduce a short description",
+        "SHAREHOLDERDESC": "Introduce a short description",
+        "APPSDESC": "Introduce a short description",
+        "HELPUSIMPROVEDESC": "Introduce a short description",
+        "PRODUCTSTAB": "Products",
+        "LOCATORTAB": "Locator",
+        "HELPTAB": "Help",
+        "LOGOUTTAB": "Log out",
+        "EDITBUTTON": "Configure what you see",
+        "MOREFEATURES": "More features"
+
+    }
+}

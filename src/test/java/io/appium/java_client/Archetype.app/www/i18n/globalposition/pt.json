@@ -1,0 +1,20 @@
+{
+    "GLOBALPOSITION": {
+        "ACCOUNTS": "Contas",
+        "CARDS": "Postais",
+        "LOANS": "Empréstimos",
+        "SHARES": "Acções",
+        "DEPOSITS": "Depósitos",
+        "PENSIONPLANS": "Planos de pensão",
+        "BALANCE": "Saldo",
+        "FINANCING": "Financiamento",
+        "EDITINFO": "Escolha e organize as informações desejadas em sua posição global.",
+        "EDITNAVBAR": "Voltar à Posição Global",
+        "HIDDENPRODUCTS": "Produtos ocultos",
+        "MANAGEWHATTOSHOW": "Gerenciar o que mostrar na sua posição global",
+        "HELLO": "Olá",
+        "LASTLOGIN": "Último login",
+        "DISPLAYALLPRODUCTS": "Exibir todos os produtos",
+        "FUNDS": "Fundos"
+    }
+}

@@ -1,0 +1,18 @@
+/* 
+  Example1Strings.strings
+  Example1
+
+  Created by marco.iniguez.ollero on 17/01/2020.
+  
+*/
+"Language" = "Portuguese Portugal";
+"Done" = "Done";
+"Error" = "Error";
+"GenericError" = "Error loading module, please try it later";
+"Products" = "Products";
+"GlobalPosition" = "Global Position";
+"Transfers" = "Transfers";
+"Dashboard" = "Dashboard";
+"TitleExpired" = "Desculpe, sua sessão expirou. Faça login novamente";
+"SubTitleExpired" = "Clique aqui para saber mais sobre as sessões da conta";
+"GoToLogin" = "Ir para o login";

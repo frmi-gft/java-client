@@ -1,0 +1,18 @@
+/* 
+  Example1Strings.strings
+  Example1
+
+  Created by marco.iniguez.ollero on 17/01/2020.
+  
+*/
+"Language" = "Español";
+"Done" = "Hecho";
+"Error" = "Error";
+"GenericError" = "Error cargando el módulo, por favor inténtalo más tarde";
+"Products" = "Productos";
+"GlobalPosition" = "Posición Global";
+"Transfers" = "Transferencias";
+"Dashboard" = "Dashboard";
+"TitleExpired" = "Lo sentimos, su sesión ha expirado. Regístrese de nuevo";
+"SubTitleExpired" = "Haga clic aquí para obtener más información sobre las sesiones de cuenta";
+"GoToLogin" = "Ir al inicio de sesión";

@@ -1,0 +1,34 @@
+{
+    "defaultLanguage" : "es",
+    "initial":"Login",
+    "components": ["Login","Example1", "Example2", "Example3", "MainMenu"],
+    "tabbar": [
+            {
+                "component":"Example1",
+                "image":"FUNC127",
+                "title":"Example 1",
+                "tag":0
+            },
+            {
+                "component":"Example2",
+                "image":"SYS001",
+                "title":"Example 2",
+                "tag":2
+            },
+            {
+                "component":"Example3",
+                "image":"FUNC056",
+                "title":"Example3",
+                "tag":3
+            }
+    ],
+    "hybridcomponentconfig": {
+        "initModule": "fullmenu",
+        "initUrl": "",
+        "params":{}
+    },
+    "appSettings": {
+        "disablePrivateTextViewSensors" : true,
+        "disablePrivateTextViewMode": true
+      }
+}

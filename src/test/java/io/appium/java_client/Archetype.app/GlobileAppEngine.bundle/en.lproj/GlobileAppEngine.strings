@@ -1,0 +1,18 @@
+/* 
+  Example1Strings.strings
+  Example1
+
+  Created by marco.iniguez.ollero on 17/01/2020.
+  
+*/
+"Language" = "English";
+"Done" = "Done";
+"Error" = "Error";
+"GenericError" = "Error loading module, please try it later";
+"Products" = "Products";
+"GlobalPosition" = "Global Position";
+"Transfers" = "Transfers";
+"Dashboard" = "Dashboard";
+"TitleExpired" = "Sorry, your session has expired Please Sign In again";
+"SubTitleExpired" = "Click here to learn more about account sessions";
+"GoToLogin" = "Go to LogIn";

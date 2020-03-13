@@ -1,0 +1,38 @@
+{
+    "FULLMENU": {
+        "EDITNAVTITLE": "Menu Editar",
+        "FAVOURITELISTHEADER": "Recursos favoritos",
+        "EDITINFO": "Organize seus recursos abaixo",
+        "MYMANAGE": "Meu gerente",
+        "WORLD": "123 Mundo",
+        "BILLSANDTAXES": "Contas e impostos",
+        "MYINVESTMENTS": "Meus investimentos",
+        "APPLY": "Aplique",
+        "SANTANDERSHOPPING": "Santander Shopping",
+        "ADVICE": "Conselhos",
+        "ATMBRANCHLOCATOR" : "Localizador de caixas eletrônicos",
+        "SHAREHOLDER": "Acionista",
+        "APPS" : "Apps",
+        "HELPUSIMPROVE": "Ajude-nos a melhorar",
+        "EDITEMPTYLISTMESSAGE": "Arraste aqui os itens para realçar",
+        "MYMANAGEDESC": "Introduzir uma breve descrição",
+        "WORLDDESC": "Introduzir uma breve descrição",
+        "BILLSANDTAXESDESC": "Introduzir uma breve descrição",
+        "MYINVESTMENTSDESC": "Introduzir uma breve descrição",
+        "APPLYDESC": "Introduzir uma breve descrição",
+        "SANTANDERSHOPPINGDESC": "Introduzir uma breve descrição",
+        "ADVICEDESC": "Introduzir uma breve descrição",
+        "ATMBRANCHLOCATORDESC": "Introduzir uma breve descrição",
+        "SHAREHOLDERDESC": "Introduzir uma breve descrição",
+        "APPSDESC": "Introduzir uma breve descrição",
+        "HELPUSIMPROVEDESC": "Introduzir uma breve descrição",
+        "PRODUCTSTAB": "Produtos",
+        "LOCATORTAB": "Localizador",
+        "HELPTAB": "Socorro",
+        "LOGOUTTAB": "Sair",
+        "EDITBUTTON": "Configura o que vês",
+        "MOREFEATURES": "Mais recursos"
+
+
+    }
+}

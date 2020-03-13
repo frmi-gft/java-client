@@ -1,0 +1,21 @@
+/* 
+  Example1Strings.strings
+  Example1
+
+  Created by marco.iniguez.ollero on 17/01/2020.
+  
+*/
+"Language" = "German";
+"Done" = "Done";
+"Error" = "Error";
+"GenericError" = "Error loading module, please try it later";
+"Products" = "Products";
+"GlobalPosition" = "Global Position";
+"Transfers" = "Transfers";
+"Dashboard" = "Dashboard";
+"TitleExpired" = "Entschuldigung, Ihre Sitzung ist abgelaufen. Bitte melden Sie sich erneut an.";
+"SubTitleExpired" = "Klicken Sie hier, um mehr über Kontositzungen zu erfahren";
+"GoToLogin" = "Gehe zu LogIn";
+"TitleExpired” = „Przepraszamy, sesja wygasła. Zaloguj się ponownie”;
+"SubTitleExpired” = „Kliknij tutaj, aby dowiedzieć się więcej o sesjach kont”;
+"GoToLogin” = „Idź do logowania”;

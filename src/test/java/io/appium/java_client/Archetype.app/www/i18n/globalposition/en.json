@@ -1,0 +1,20 @@
+{
+    "GLOBALPOSITION": {
+        "ACCOUNTS": "Accounts",
+        "CARDS": "Cards",
+        "LOANS": "Loans",
+        "SHARES": "Shares",
+        "DEPOSITS": "Deposits",
+        "PENSIONPLANS": "Pension Plans",
+        "BALANCE": "Balance",
+        "FINANCING": "Financing",
+        "EDITINFO": "Choose and arrange the information you want on your Global Position.",
+        "EDITNAVBAR": "Back to Global Position",
+        "HIDDENPRODUCTS": "Hidden products",
+        "MANAGEWHATTOSHOW": "Manage what to show on your Global Position",
+        "HELLO": "Hello",
+        "LASTLOGIN": "Last login",
+        "DISPLAYALLPRODUCTS": "Display all products",
+        "FUNDS": "Funds"
+    }
+}

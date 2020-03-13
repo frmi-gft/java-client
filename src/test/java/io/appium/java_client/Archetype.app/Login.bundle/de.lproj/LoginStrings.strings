@@ -1,0 +1,11 @@
+/* 
+  Example1Strings.strings
+  Example1
+
+  Created by marco.iniguez.ollero on 17/01/2020.
+  
+*/
+"StartSession" = "Sitzung starten";
+"User" = "Benutzer";
+"Password" = "Kennwort";
+"SelectLanguage" = "Sprache auswählen";
